@@ -4,10 +4,11 @@
       "docset_name": "Microsoft-365-docs",
       "build_source_folder": "microsoft-365",
       "build_output_subfolder": "Microsoft-365-docs",
-      "locale": "cs-cz",
+      "locale": "cs-CZ",
       "monikers": [],
       "moniker_ranges": [
-        "=o365-worldwide || =o365-21vianet || =o365-germany"
+        "o365-21vianet",
+        "o365-worldwide"
       ],
       "open_to_public_contributors": false,
       "type_mapping": {
@@ -37,7 +38,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.cs-cz",
+      "url": "https://github.com/Microsoft/templates.docs.msft.cs-CZ",
       "branch": "master",
       "branch_mapping": {}
     },
