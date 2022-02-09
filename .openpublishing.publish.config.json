@@ -30,16 +30,16 @@
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/microsoft-365-docs",
   "git_repository_branch_open_to_public_contributors": "public",
+  "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "continue_with_document_error": true,
   "resolve_user_profile_using_github": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.cs-CZ",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     },
     {
@@ -48,13 +48,13 @@
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     },
     {
       "path_to_root": "_themes.pdf",
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     }
   ],
