@@ -42,5 +42,5 @@ Jakmile uživatel připojí svoje zařízení k vaší organizaci tak, že se p�
 ## <a name="related-content"></a>Související obsah
   
 [Odebrání dat společnosti ze zařízení](remove-company-data.md) (článek)\
-[Obnovení Windows 10 továrního nastavení](reset-devices-to-factory-settings.md) (článek)\
+[Obnovení Windows 10 zařízení do továrního nastavení](reset-devices-to-factory-settings.md) (článek)\
 [Přidání spravovaného zařízení](./app-protection-settings-for-android-and-ios.md) (článek)
